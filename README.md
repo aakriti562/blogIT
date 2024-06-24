@@ -1,6 +1,4 @@
-# Blogs
 
-https://blogs-six.vercel.app/
 
 ** VIDEO **
 
