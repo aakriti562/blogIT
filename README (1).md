@@ -84,6 +84,17 @@ npm start
 ```
 ## Screenshots
 
+# Sign up page
+![image](https://github.com/aakriti562/blogIT/assets/76481840/c079c195-8a08-4036-8452-dc64d434b9a8)
+
+# Login Page
+![image](https://github.com/aakriti562/blogIT/assets/76481840/8e5bb9dd-4fbb-4eb2-a42e-222295309e28)
+
+# Blog Page
+![image](https://github.com/aakriti562/blogIT/assets/76481840/3116e8ec-afd6-4c8a-aaf3-333c16f37f23)
+
+# Personal Blog page
+![image](https://github.com/aakriti562/blogIT/assets/76481840/1b004f73-9cd9-4f7e-8f6f-1503f48f9239)
 
 
 ## Deployment
